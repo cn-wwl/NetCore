@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<setting> 
+	<platform>GitHub</platform>
+	<Address>https://www.github.com</Address>
+	<Login>
+		<account>admin</account>
+		<password>123456</password>
+	</Login>
+</setting>
+
